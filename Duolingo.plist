@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://storage2.fastupload.io/cf87d3d60d71d580/Duolingo_6.196.0_1729105394.ipa?download_token=a6df3e9896a2adff87ba7221c713d8afa34c33cf1a17e17dc97337e0a6f9268f</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://cloud.nabzclan.vip/5wW/36b1de25a9523f10b84ec89e477e3a25.png?download_token=093365706bfd7c637f7c3b8fcbe25f111326333681f35af03a2640c508a279b3</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://cloud.nabzclan.vip/5wW/36b1de25a9523f10b84ec89e477e3a25.png?download_token=093365706bfd7c637f7c3b8fcbe25f111326333681f35af03a2640c508a279b3</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>Duolingo.Super.app</string>
+        <key>bundle-version</key>
+        <string>1</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Duolingo</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
